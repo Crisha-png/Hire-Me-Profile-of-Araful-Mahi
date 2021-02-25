@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://static2.srcdn.com/wordpress/wp-content/uploads/2020/08/Naruto-Uzumaki-Hokage-young.jpg?q=50&fit=crop&w=960&h=500);
+}
+
+h1 {
+    text-shadow: 2px 2px 5px orange;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+
+.background {
+    font-family: 'Roboto Slab', serif;
+    color: White;
+}
+
+.question {
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    color: #4d4d4d;
+}
+
+.discription {
+    font-family: 'Noticia Text', serif;
+    color: #000099;
+}
+
+img {
+    border: 5px solid orange;
+}
+
+a {
+    color: #cc8800;
+}
